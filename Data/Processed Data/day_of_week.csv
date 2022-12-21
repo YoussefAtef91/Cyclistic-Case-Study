@@ -1,0 +1,15 @@
+"member_casual","day_of_week","dow","count"
+"casual","Monday",0,391127
+"member","Monday",0,390410
+"casual","Tuesday",1,279834
+"member","Tuesday",1,476850
+"casual","Wednesday",2,263522
+"member","Wednesday",2,518556
+"casual","Thursday",3,278850
+"member","Thursday",3,537649
+"casual","Friday",4,313131
+"member","Friday",4,540246
+"casual","Saturday",5,339738
+"member","Saturday",5,476810
+"casual","Sunday",6,475485
+"member","Sunday",6,445369
